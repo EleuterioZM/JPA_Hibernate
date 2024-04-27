@@ -1,0 +1,4 @@
+E so criar uma base de dados com o come "hibernate_jpa" e rodar os medotos Main's ele vai gerar as tabelas e os relacionamentos, deve rodar a categoria primeiro
+
+
+=====JPA & HIBERNATE====
